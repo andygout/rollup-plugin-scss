@@ -13,5 +13,5 @@ node_modules
 # Build files
 index.cjs.js
 index.d.ts
-index.es.js
+# index.es.js
 /test/**/output.*
